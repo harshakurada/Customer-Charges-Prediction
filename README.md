@@ -93,9 +93,9 @@ This plot compares predicted values with actual values along with an ideal predi
 
 > The closer the points are to the red line, the better the model performance.
 
-*(Add your saved plot image here in GitHub)*
 
----
+<img width="1715" height="1361" alt="image" src="https://github.com/user-attachments/assets/6a0efc4b-310c-4ae8-b7fe-5a4eefc638e4" />
+
 
 ## 🔍 Key Insights
 
